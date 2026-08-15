@@ -9,7 +9,7 @@ The website is designed with a modern **sci-fi / space theme**, featuring an ani
 ## 🌐 Live Website
 
 🔗 **View My Resume:**  
-https://YOUR-USERNAME.github.io/3rd-year-student-resume/
+https://vimalrajmandal586.github.io/student-resume/
 
 ---
 
